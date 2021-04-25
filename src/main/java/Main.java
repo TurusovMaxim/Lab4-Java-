@@ -2,6 +2,12 @@ import modals.Person;
 
 import java.util.List;
 
+/**
+ * Data about people is read from the file to the list.
+ * The task uses built-in Java collections.
+ *
+ * @author TurusovMaxim
+ */
 public class Main {
     private static final String pathToFile = "./src/main/resources/foreign_names.csv";
 
